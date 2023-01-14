@@ -1,7 +1,7 @@
 ## Hi there, I'm Matt 👋
 
 Hey, welcome to my github. the code here may or may not work, but i'm going to be updating it in 2023 and bringing things together. Most of the stuff here related to my YouTube stuff. youtbe.com/@crazylogic. 
-<p>
+<p align="center">
   <a href="https://youtube.com/@crazylogic">
     <img alt="Crazy-Logic YouTube" width="300px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
   </a> 
