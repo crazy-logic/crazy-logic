@@ -2,10 +2,10 @@
 
 Hey, welcome to my github. the code here may or may not work, but i'm going to be updating it in 2023 and bringing things together. Most of the stuff here related to my YouTube stuff. youtbe.com/@crazy-logic. 
 <p>
-<a href="httpe://youtube.com/@crazy-logic">
-  <img alt="Crazy-Logic YouTube" width="300px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
-</a>
-  </p>
+  <a href="https://youtube.com/@crazy-logic">
+    <img alt="Crazy-Logic YouTube" width="300px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
+  </a> 
+</p>
 
 ### Languages and Tools I Use:
 
